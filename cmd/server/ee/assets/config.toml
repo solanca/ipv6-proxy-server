@@ -1,0 +1,6 @@
+[server]
+debug=true
+listen_port=13134
+
+[database]
+organization="orgname"
